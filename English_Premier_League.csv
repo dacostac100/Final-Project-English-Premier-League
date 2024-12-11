@@ -1,0 +1,563 @@
+,Unnamed: 0,Rk,Player,Nation,Pos,Squad,Age,90 Mins,Goals,Shots,Shots_on_targ,Expected_goals,Age_Group,Physical_Category
+0,0,1,Max Aarons,ENG,DF,Bournemouth,24.0,12.1,0.0,1.0,0.0,0.0,17-25 (Younger),More Physical
+1,1,2,Bénie Adama Traore,CIV,"FW,MF",Sheffield Utd,21.0,4.3,0.0,1.0,1.0,0.3,17-25 (Younger),More Physical
+2,2,3,Tyler Adams,USA,MF,Bournemouth,25.0,1.2,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+3,3,4,Tosin Adarabioyo,ENG,DF,Fulham,26.0,16.0,2.0,14.0,5.0,0.7,26-39 (Older),More Physical
+4,4,5,Elijah Adebayo,ENG,FW,Luton Town,26.0,12.9,9.0,28.0,12.0,5.6,26-39 (Older),More Physical
+5,5,6,Simon Adingra,CIV,FW,Brighton,22.0,18.8,6.0,36.0,15.0,3.3,17-25 (Younger),More Physical
+6,6,7,Nayef Aguerd,MAR,DF,West Ham,28.0,19.6,1.0,14.0,3.0,1.5,26-39 (Older),Less Physical
+7,7,8,Brandon Aguilera,CRC,FW,Nott'ham Forest,20.0,0.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+8,8,9,Naouirou Ahamada,FRA,"MF,FW",Crystal Palace,22.0,2.7,0.0,8.0,2.0,0.4,17-25 (Younger),More Physical
+9,9,10,Anel Ahmedhodžić,BIH,DF,Sheffield Utd,25.0,23.4,1.0,16.0,4.0,2.6,17-25 (Younger),More Physical
+10,10,11,Ola Aina,NGA,DF,Nott'ham Forest,27.0,13.8,1.0,7.0,1.0,0.2,26-39 (Older),Less Physical
+11,11,12,Rayan Aït-Nouri,ALG,"DF,MF",Wolves,22.0,21.2,2.0,20.0,6.0,3.1,17-25 (Younger),More Physical
+12,12,13,Kristoffer Ajer,NOR,DF,Brentford,25.0,17.4,2.0,9.0,3.0,1.1,17-25 (Younger),More Physical
+13,13,14,Manuel Akanji,SUI,"DF,MF",Manchester City,28.0,21.1,2.0,10.0,4.0,0.9,26-39 (Older),Less Physical
+14,14,15,Nathan Aké,NED,DF,Manchester City,29.0,19.5,2.0,19.0,5.0,2.1,26-39 (Older),Less Physical
+15,15,16,Thiago Alcántara,ESP,MF,Liverpool,32.0,0.1,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+16,16,17,Trent Alexander-Arnold,ENG,DF,Liverpool,25.0,18.0,2.0,30.0,4.0,1.8,17-25 (Younger),More Physical
+17,17,18,Alisson,BRA,GK,Liverpool,31.0,21.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+18,18,19,Miguel Almirón,PAR,FW,Newcastle Utd,30.0,20.5,3.0,40.0,11.0,4.5,26-39 (Older),Less Physical
+19,19,20,Edson Álvarez,MEX,MF,West Ham,26.0,22.9,1.0,17.0,3.0,1.3,26-39 (Older),More Physical
+20,20,21,Julián Álvarez,ARG,"MF,FW",Manchester City,24.0,26.2,8.0,85.0,33.0,10.7,17-25 (Younger),More Physical
+21,21,22,Zeki Amdouni,SUI,FW,Burnley,23.0,20.3,4.0,41.0,21.0,4.4,17-25 (Younger),More Physical
+22,22,23,Sofyan Amrabat,MAR,"MF,DF",Manchester Utd,27.0,7.2,0.0,2.0,0.0,0.1,26-39 (Older),Less Physical
+23,23,24,Joachim Andersen,DEN,DF,Crystal Palace,27.0,31.0,2.0,19.0,8.0,1.3,26-39 (Older),Less Physical
+24,24,25,Elliot Anderson,SCO,"MF,FW",Newcastle Utd,21.0,6.5,0.0,8.0,2.0,0.8,17-25 (Younger),More Physical
+26,26,26,Jaidon Anthony,ENG,FW,Bournemouth,24.0,1.7,0.0,2.0,1.0,0.1,17-25 (Younger),More Physical
+27,27,27,Michail Antonio,JAM,FW,West Ham,34.0,13.6,4.0,21.0,10.0,3.8,26-39 (Older),Less Physical
+28,28,28,Antony,BRA,FW,Manchester Utd,24.0,12.2,0.0,31.0,7.0,1.7,17-25 (Younger),More Physical
+29,29,29,Oliver Arblaster,ENG,MF,Sheffield Utd,19.0,4.1,0.0,1.0,1.0,0.0,17-25 (Younger),More Physical
+30,30,30,Cameron Archer,ENG,"FW,MF",Sheffield Utd,22.0,16.1,4.0,29.0,7.0,3.9,17-25 (Younger),More Physical
+31,31,31,Cameron Archer,ENG,MF,Aston Villa,22.0,0.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+32,32,32,Alphonse Areola,FRA,GK,West Ham,31.0,26.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+33,33,33,Lorenz Assignon,TOG,DF,Burnley,23.0,8.2,0.0,2.0,0.0,0.1,17-25 (Younger),More Physical
+34,34,34,Serge Aurier,CIV,"DF,MF",Nott'ham Forest,31.0,9.3,0.0,6.0,1.0,0.2,26-39 (Older),Less Physical
+35,35,35,Taiwo Awoniyi,NGA,FW,Nott'ham Forest,26.0,11.4,6.0,22.0,11.0,4.7,26-39 (Older),More Physical
+36,36,36,Jordan Ayew,GHA,"FW,MF",Crystal Palace,32.0,26.0,4.0,45.0,17.0,3.8,26-39 (Older),Less Physical
+37,37,37,Benoît Badiashile,FRA,DF,Chelsea,23.0,8.2,0.0,3.0,1.0,0.2,17-25 (Younger),More Physical
+38,38,38,Leon Bailey,JAM,"MF,FW",Aston Villa,26.0,18.9,8.0,47.0,15.0,4.8,26-39 (Older),More Physical
+39,39,39,George Baldock,GRE,DF,Sheffield Utd,31.0,10.8,0.0,1.0,0.0,0.0,26-39 (Older),Less Physical
+40,40,40,Carlos Baleba,CMR,MF,Brighton,20.0,11.5,0.0,16.0,3.0,0.7,17-25 (Younger),More Physical
+41,41,41,Fodé Ballo-Touré,SEN,"DF,MF",Fulham,27.0,0.6,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+42,42,42,Shandon Baptiste,GRN,MF,Brentford,26.0,2.5,1.0,2.0,2.0,0.9,26-39 (Older),More Physical
+43,43,43,Valentín Barco,ARG,DF,Brighton,19.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+44,44,44,Ross Barkley,ENG,MF,Luton Town,30.0,24.8,4.0,61.0,16.0,3.8,26-39 (Older),Less Physical
+45,45,45,Harvey Barnes,ENG,FW,Newcastle Utd,26.0,5.6,4.0,19.0,9.0,2.6,26-39 (Older),More Physical
+46,46,46,Chris Basham,ENG,"DF,MF",Sheffield Utd,35.0,3.6,0.0,2.0,0.0,0.1,26-39 (Older),Less Physical
+47,47,47,Calvin Bassey,NGA,DF,Fulham,24.0,19.6,1.0,5.0,1.0,0.3,17-25 (Younger),More Physical
+48,48,48,Owen Beck,WAL,DF,Liverpool,21.0,0.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+49,49,49,Donny van de Beek,NED,DF,Manchester Utd,26.0,0.0,0.0,1.0,0.0,0.0,26-39 (Older),More Physical
+50,50,50,Amari'i Bell,JAM,DF,Luton Town,29.0,19.1,0.0,2.0,2.0,0.3,26-39 (Older),Less Physical
+52,52,51,Jean-Ricner Bellegarde,FRA,"MF,FW",Wolves,25.0,9.0,2.0,14.0,5.0,1.4,17-25 (Younger),More Physical
+53,53,52,Anis Ben Slimane,TUN,MF,Sheffield Utd,23.0,4.1,0.0,6.0,3.0,0.7,17-25 (Younger),More Physical
+54,54,53,Saïd Benrahma,ALG,"FW,MF",West Ham,28.0,6.9,0.0,18.0,5.0,1.8,26-39 (Older),Less Physical
+55,55,54,Rodrigo Bentancur,URU,MF,Tottenham,26.0,7.5,1.0,11.0,2.0,1.1,26-39 (Older),More Physical
+56,56,55,Daniel Bentley,ENG,GK,Wolves,30.0,3.3,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+57,57,56,Jóhann Berg Guðmundsson,ISL,MF,Burnley,33.0,12.0,0.0,10.0,3.0,0.9,26-39 (Older),Less Physical
+58,58,57,Sander Berge,NOR,MF,Burnley,26.0,27.4,1.0,22.0,3.0,1.8,26-39 (Older),More Physical
+59,59,58,Luke Berry,ENG,"MF,DF",Luton Town,31.0,1.9,1.0,4.0,1.0,0.5,26-39 (Older),Less Physical
+60,60,59,Beto,GNB,FW,Everton,26.0,9.2,3.0,37.0,10.0,5.5,26-39 (Older),More Physical
+61,61,60,Jordan Beyer,GER,DF,Burnley,23.0,13.7,0.0,5.0,0.0,0.5,17-25 (Younger),More Physical
+62,62,61,Philip Billing,DEN,MF,Bournemouth,27.0,14.9,2.0,29.0,8.0,2.4,26-39 (Older),Less Physical
+63,63,62,Yves Bissouma,MLI,MF,Tottenham,27.0,19.5,0.0,23.0,5.0,1.4,26-39 (Older),Less Physical
+64,64,63,Benicio Boaitey,ENG,"DF,FW",Brighton,20.0,0.2,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+65,65,64,Oscar Bobb,NOR,"FW,MF",Manchester City,20.0,3.1,1.0,4.0,1.0,1.4,17-25 (Younger),More Physical
+66,66,65,Jayden Bogle,ENG,DF,Sheffield Utd,23.0,24.3,2.0,23.0,8.0,1.6,17-25 (Younger),More Physical
+67,67,66,Willy Boly,CIV,DF,Nott'ham Forest,33.0,12.1,1.0,12.0,5.0,1.3,26-39 (Older),Less Physical
+68,68,67,Sven Botman,NED,DF,Newcastle Utd,24.0,15.3,2.0,10.0,2.0,0.6,17-25 (Younger),More Physical
+69,69,68,Jarrod Bowen,ENG,FW,West Ham,27.0,30.5,15.0,70.0,32.0,9.7,26-39 (Older),Less Physical
+70,70,69,Conor Bradley,NIR,DF,Liverpool,20.0,7.6,1.0,12.0,4.0,0.9,17-25 (Younger),More Physical
+71,71,70,Jarrad Branthwaite,ENG,DF,Everton,21.0,28.0,2.0,9.0,3.0,1.4,17-25 (Younger),More Physical
+72,72,71,Ben Brereton,CHI,"FW,MF",Sheffield Utd,24.0,5.5,4.0,11.0,7.0,2.4,17-25 (Younger),More Physical
+73,73,72,Rhian Brewster,ENG,"FW,MF",Sheffield Utd,24.0,3.4,0.0,6.0,3.0,0.3,17-25 (Younger),More Physical
+74,74,73,Armando Broja,ALB,FW,Chelsea,22.0,5.0,1.0,13.0,2.0,2.4,17-25 (Younger),More Physical
+75,75,74,Armando Broja,ALB,FW,Fulham,22.0,0.6,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+76,76,75,Andre Brooks,ENG,"MF,DF",Sheffield Utd,20.0,7.4,0.0,5.0,1.0,0.2,17-25 (Younger),More Physical
+78,78,76,David Brooks,WAL,"FW,MF",Bournemouth,26.0,3.1,1.0,13.0,5.0,2.2,26-39 (Older),More Physical
+79,79,77,Jacob Brown,SCO,"MF,FW",Luton Town,25.0,11.3,2.0,26.0,6.0,2.8,17-25 (Younger),More Physical
+80,80,78,Josh Brownhill,ENG,MF,Burnley,28.0,23.3,3.0,25.0,9.0,1.6,26-39 (Older),Less Physical
+81,81,79,Jacob Bruun Larsen,DEN,"MF,FW",Burnley,25.0,9.4,4.0,29.0,9.0,3.6,17-25 (Younger),More Physical
+82,82,80,Hugo Bueno,ESP,"DF,MF",Wolves,21.0,5.9,0.0,4.0,0.0,0.2,17-25 (Younger),More Physical
+83,83,81,Santiago Bueno,URU,DF,Wolves,25.0,5.5,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+84,84,82,Facundo Buonanotte,ARG,"FW,MF",Brighton,19.0,11.8,3.0,18.0,7.0,2.0,17-25 (Younger),More Physical
+85,85,83,Reece Burke,ENG,DF,Luton Town,27.0,14.0,0.0,12.0,3.0,1.3,26-39 (Older),Less Physical
+86,86,84,Dan Burn,ENG,DF,Newcastle Utd,31.0,23.3,2.0,17.0,5.0,2.5,26-39 (Older),Less Physical
+87,87,85,Mason Burstow,ENG,FW,Chelsea,20.0,0.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+88,88,86,Moisés Caicedo,ECU,MF,Chelsea,22.0,24.1,0.0,8.0,1.0,0.3,17-25 (Younger),More Physical
+89,89,87,Tom Cairney,SCO,MF,Fulham,33.0,15.4,1.0,15.0,6.0,1.0,26-39 (Older),Less Physical
+90,90,88,Dominic Calvert-Lewin,ENG,FW,Everton,27.0,19.8,5.0,59.0,21.0,10.9,26-39 (Older),Less Physical
+91,91,89,Thomas Cannon,IRL,FW,Everton,21.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+92,92,90,Diego Carlos,BRA,DF,Aston Villa,31.0,16.0,0.0,7.0,1.0,0.9,26-39 (Older),Less Physical
+93,93,91,Cesare Casadei,ITA,"MF,FW",Chelsea,21.0,0.2,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+94,94,92,Casemiro,BRA,MF,Manchester Utd,32.0,15.0,1.0,28.0,6.0,2.7,26-39 (Older),Less Physical
+95,95,93,Matty Cash,POL,DF,Aston Villa,26.0,21.1,2.0,31.0,13.0,4.1,26-39 (Older),More Physical
+96,96,94,Timothy Castagne,BEL,DF,Fulham,28.0,24.3,0.0,12.0,3.0,1.4,26-39 (Older),Less Physical
+97,97,95,Jonny Castro,ESP,MF,Wolves,30.0,0.1,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+98,98,96,Trevoh Chalobah,ENG,DF,Chelsea,24.0,3.4,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+99,99,97,Calum Chambers,ENG,"DF,MF",Aston Villa,29.0,0.8,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+100,100,98,Youssef Chermiti,POR,FW,Everton,19.0,0.9,0.0,4.0,1.0,0.5,17-25 (Younger),More Physical
+101,101,99,Ben Chilwell,ENG,DF,Chelsea,27.0,8.3,0.0,11.0,3.0,1.2,26-39 (Older),Less Physical
+102,102,100,Tawanda Chirewa,ENG,MF,Wolves,20.0,0.4,0.0,1.0,0.0,0.1,17-25 (Younger),More Physical
+104,104,101,Leon Chiwome,ENG,FW,Wolves,18.0,1.9,0.0,2.0,0.0,0.1,17-25 (Younger),More Physical
+105,105,102,Tahith Chong,NED,MF,Luton Town,24.0,16.3,4.0,27.0,7.0,2.5,17-25 (Younger),More Physical
+106,106,103,Ryan Christie,SCO,MF,Bournemouth,29.0,26.3,0.0,33.0,12.0,1.6,26-39 (Older),Less Physical
+107,107,104,Carney Chukwuemeka,ENG,"MF,FW",Chelsea,20.0,2.3,1.0,3.0,2.0,0.2,17-25 (Younger),More Physical
+108,108,105,Bobby Clark,ENG,MF,Liverpool,19.0,1.0,0.0,2.0,0.0,0.1,17-25 (Younger),More Physical
+109,109,106,Jordan Clark,ENG,MF,Luton Town,30.0,10.6,1.0,12.0,3.0,0.8,26-39 (Older),Less Physical
+110,110,107,Nathaniel Clyne,ENG,"DF,MF",Crystal Palace,33.0,8.2,0.0,2.0,0.0,0.0,26-39 (Older),Less Physical
+111,111,108,Séamus Coleman,IRL,DF,Everton,35.0,4.6,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+112,112,109,Nathan Collins,IRL,DF,Brentford,22.0,24.5,1.0,10.0,2.0,1.7,17-25 (Younger),More Physical
+113,113,110,Levi Colwill,ENG,DF,Chelsea,21.0,20.0,1.0,11.0,3.0,1.3,17-25 (Younger),More Physical
+114,114,111,Lewis Cook,ENG,MF,Bournemouth,27.0,24.0,0.0,10.0,3.0,0.3,26-39 (Older),Less Physical
+115,115,112,Jack Cork,ENG,MF,Burnley,34.0,0.2,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+116,116,113,Maxwel Cornet,CIV,"MF,FW",West Ham,27.0,1.2,1.0,4.0,1.0,0.4,26-39 (Older),Less Physical
+117,117,114,Vladimír Coufal,CZE,DF,West Ham,31.0,29.0,0.0,4.0,1.0,0.2,26-39 (Older),Less Physical
+118,118,115,Philippe Coutinho,BRA,"MF,FW",Aston Villa,31.0,0.3,0.0,3.0,1.0,0.1,26-39 (Older),Less Physical
+119,119,116,Aaron Cresswell,ENG,"DF,FW",West Ham,34.0,3.1,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+120,120,117,Marc Cucurella,ESP,DF,Chelsea,25.0,11.8,0.0,6.0,4.0,0.9,17-25 (Younger),More Physical
+121,121,118,Josh Cullen,IRL,MF,Burnley,28.0,17.0,1.0,10.0,3.0,0.3,26-39 (Older),Less Physical
+122,122,119,Matheus Cunha,BRA,"FW,MF",Wolves,24.0,22.4,9.0,60.0,30.0,8.2,17-25 (Younger),More Physical
+123,123,120,Mahmoud Dahoud,GER,MF,Brighton,28.0,5.0,0.0,6.0,1.0,0.2,26-39 (Older),Less Physical
+124,124,121,Ameen Al-Dakhil,BEL,DF,Burnley,22.0,11.7,1.0,8.0,3.0,1.3,17-25 (Younger),More Physical
+125,125,122,Diogo Dalot,POR,DF,Manchester Utd,25.0,28.3,1.0,24.0,4.0,1.0,17-25 (Younger),More Physical
+126,126,123,Mikkel Damsgaard,DEN,MF,Brentford,23.0,5.4,0.0,6.0,3.0,0.8,17-25 (Younger),More Physical
+127,127,124,Danilo,BRA,MF,Nott'ham Forest,22.0,14.4,1.0,16.0,4.0,0.7,17-25 (Younger),More Physical
+128,128,125,Arnaut Danjuma,NED,"MF,FW",Everton,27.0,6.6,1.0,25.0,9.0,2.6,26-39 (Older),Less Physical
+130,130,126,Jayden Danns,ENG,FW,Liverpool,18.0,0.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+131,131,127,Josh Dasilva,ENG,"DF,FW",Brentford,25.0,0.3,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+132,132,128,David Datro Fofana,CIV,FW,Burnley,21.0,8.3,4.0,16.0,9.0,3.7,17-25 (Younger),More Physical
+133,133,129,Ben Davies,WAL,DF,Tottenham,30.0,11.1,1.0,12.0,2.0,2.3,26-39 (Older),Less Physical
+134,134,130,Tom Davies,ENG,MF,Sheffield Utd,25.0,2.5,0.0,4.0,1.0,0.4,17-25 (Younger),More Physical
+135,135,131,Craig Dawson,ENG,DF,Wolves,33.0,24.5,1.0,16.0,5.0,1.5,26-39 (Older),Less Physical
+136,136,132,Kevin De Bruyne,BEL,MF,Manchester City,32.0,7.5,3.0,21.0,6.0,1.1,26-39 (Older),Less Physical
+137,137,133,Hannes Delcroix,BEL,DF,Burnley,25.0,6.5,0.0,4.0,2.0,0.4,17-25 (Younger),More Physical
+138,138,134,Leander Dendoncker,BEL,MF,Aston Villa,28.0,1.3,1.0,2.0,1.0,0.7,26-39 (Older),Less Physical
+139,139,135,Moussa Diaby,FRA,"FW,MF",Aston Villa,24.0,19.1,5.0,44.0,17.0,5.2,17-25 (Younger),More Physical
+140,140,136,Amad Diallo,CIV,FW,Manchester Utd,21.0,0.5,0.0,1.0,1.0,0.1,17-25 (Younger),More Physical
+141,141,137,Amadou Diallo,ENG,MF,Newcastle Utd,21.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+142,142,138,Rúben Dias,POR,DF,Manchester City,26.0,24.4,0.0,16.0,7.0,1.1,26-39 (Older),More Physical
+143,143,139,Luis Díaz,COL,FW,Liverpool,27.0,23.4,8.0,80.0,26.0,10.3,26-39 (Older),Less Physical
+144,144,140,Eric Dier,ENG,DF,Tottenham,30.0,2.2,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+145,145,141,Lucas Digne,FRA,DF,Aston Villa,30.0,20.8,1.0,17.0,4.0,0.9,26-39 (Older),Less Physical
+146,146,142,Issa Diop,FRA,DF,Fulham,27.0,12.8,0.0,4.0,1.0,0.2,26-39 (Older),Less Physical
+147,147,143,Axel Disasi,FRA,DF,Chelsea,26.0,27.6,2.0,15.0,4.0,1.5,26-39 (Older),More Physical
+148,148,144,Ben Doak,SCO,FW,Liverpool,18.0,0.2,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+149,149,145,Lewis Dobbin,ENG,MF,Everton,21.0,2.3,1.0,5.0,2.0,0.3,17-25 (Younger),More Physical
+150,150,146,Matt Doherty,IRL,"DF,MF",Wolves,32.0,8.6,1.0,7.0,2.0,0.7,26-39 (Older),Less Physical
+151,151,147,Jeremy Doku,BEL,"FW,MF",Manchester City,21.0,14.5,2.0,39.0,12.0,1.6,17-25 (Younger),More Physical
+152,152,148,Nicolás Domínguez,ARG,"MF,FW",Nott'ham Forest,25.0,15.4,2.0,21.0,6.0,1.3,17-25 (Younger),More Physical
+153,153,149,Jamie Donley,ENG,FW,Tottenham,19.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+154,154,150,Gabriel Dos Santos,BRA,DF,Arsenal,26.0,27.2,4.0,28.0,10.0,4.0,26-39 (Older),More Physical
+156,156,151,Abdoulaye Doucouré,MLI,"FW,MF",Everton,31.0,22.9,6.0,40.0,18.0,6.7,26-39 (Older),Less Physical
+157,157,152,Cheick Doucouré,MLI,MF,Crystal Palace,24.0,10.2,0.0,6.0,2.0,0.3,17-25 (Younger),More Physical
+158,158,153,Alfie Doughty,ENG,DF,Luton Town,24.0,26.6,1.0,22.0,4.0,1.1,17-25 (Younger),More Physical
+159,159,154,Tommy Doyle,ENG,MF,Wolves,22.0,10.8,0.0,11.0,3.0,0.4,17-25 (Younger),More Physical
+160,160,155,Radu Drăgușin,ROU,DF,Tottenham,22.0,2.6,0.0,1.0,0.0,0.1,17-25 (Younger),More Physical
+161,161,156,Martin Dúbravka,SVK,GK,Newcastle Utd,35.0,16.1,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+162,162,157,Paul Dummett,WAL,DF,Newcastle Utd,32.0,0.2,0.0,1.0,0.0,0.0,26-39 (Older),Less Physical
+163,163,158,Lewis Dunk,ENG,DF,Brighton,32.0,26.4,3.0,31.0,11.0,3.0,26-39 (Older),Less Physical
+164,164,159,Jhon Durán,COL,"FW,MF",Aston Villa,20.0,3.8,3.0,14.0,5.0,1.5,17-25 (Younger),More Physical
+165,165,160,Ederson,BRA,GK,Manchester City,30.0,25.7,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+166,166,161,Odsonne Édouard,FRA,"FW,MF",Crystal Palace,26.0,16.1,7.0,49.0,18.0,6.2,26-39 (Older),More Physical
+167,167,162,John Egan,IRL,DF,Sheffield Utd,31.0,5.4,0.0,3.0,1.0,0.2,26-39 (Older),Less Physical
+168,168,163,Hjalmar Ekdal,SWE,DF,Burnley,25.0,3.6,0.0,2.0,1.0,0.1,17-25 (Younger),More Physical
+169,169,164,Anthony Elanga,SWE,"FW,MF",Nott'ham Forest,21.0,23.9,5.0,51.0,21.0,6.5,17-25 (Younger),More Physical
+170,170,165,Harvey Elliott,ENG,"MF,FW",Liverpool,21.0,10.0,2.0,32.0,10.0,1.4,17-25 (Younger),More Physical
+171,171,166,Mohamed Elneny,EGY,MF,Arsenal,31.0,0.3,0.0,2.0,1.0,0.1,26-39 (Older),Less Physical
+172,172,167,Emerson,BRA,DF,Tottenham,25.0,10.7,1.0,5.0,3.0,0.2,17-25 (Younger),More Physical
+173,173,168,Julio Enciso,PAR,"MF,FW",Brighton,20.0,2.6,0.0,16.0,6.0,0.7,17-25 (Younger),More Physical
+174,174,169,Wataru Endo,JPN,MF,Liverpool,31.0,13.9,1.0,8.0,2.0,0.3,26-39 (Older),Less Physical
+175,175,170,Christian Eriksen,DEN,MF,Manchester Utd,32.0,9.9,1.0,9.0,4.0,0.7,26-39 (Older),Less Physical
+176,176,171,Maxime Estève,FRA,DF,Burnley,21.0,9.1,0.0,5.0,0.0,0.2,17-25 (Younger),More Physical
+177,177,172,Pervis Estupiñán,ECU,DF,Brighton,26.0,13.7,2.0,11.0,6.0,1.0,26-39 (Older),More Physical
+178,178,173,Jonny Evans,NIR,DF,Manchester Utd,36.0,12.3,0.0,1.0,0.0,0.1,26-39 (Older),Less Physical
+179,179,174,Eberechi Eze,ENG,"MF,FW",Crystal Palace,25.0,17.3,6.0,57.0,22.0,6.2,17-25 (Younger),More Physical
+180,180,175,Łukasz Fabiański,POL,GK,West Ham,38.0,6.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+182,182,176,Romain Faivre,FRA,"MF,DF",Bournemouth,25.0,0.2,0.0,1.0,0.0,0.1,17-25 (Younger),More Physical
+183,183,177,Ansu Fati,ESP,"MF,FW",Brighton,21.0,5.5,2.0,23.0,10.0,3.3,17-25 (Younger),More Physical
+184,184,178,Felipe,BRA,DF,Nott'ham Forest,34.0,4.2,0.0,3.0,0.0,0.1,26-39 (Older),Less Physical
+185,185,179,Evan Ferguson,IRL,FW,Brighton,19.0,15.2,6.0,33.0,20.0,4.6,17-25 (Younger),More Physical
+186,186,180,Bruno Fernandes,POR,"MF,FW",Manchester Utd,29.0,30.0,6.0,78.0,29.0,8.0,26-39 (Older),Less Physical
+187,187,181,Enzo Fernández,ARG,MF,Chelsea,23.0,23.8,3.0,44.0,13.0,6.1,17-25 (Younger),More Physical
+188,188,182,John Fleck,SCO,"MF,DF",Sheffield Utd,32.0,1.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+189,189,183,Mark Flekken,NED,GK,Brentford,30.0,30.5,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+190,190,184,Phil Foden,ENG,"FW,MF",Manchester City,23.0,27.2,14.0,90.0,38.0,9.0,17-25 (Younger),More Physical
+191,191,185,Wes Foderingham,ENG,GK,Sheffield Utd,33.0,24.4,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+192,192,186,Pablo Fornals,ESP,"MF,FW",West Ham,28.0,4.7,0.0,7.0,3.0,0.3,26-39 (Older),Less Physical
+193,193,187,Omari Forson,ENG,FW,Manchester Utd,19.0,0.7,0.0,1.0,0.0,0.0,17-25 (Younger),More Physical
+194,194,188,Lyle Foster,RSA,"FW,MF",Burnley,23.0,15.3,4.0,23.0,10.0,2.6,17-25 (Younger),More Physical
+195,195,189,Matheus França,BRA,"MF,FW",Crystal Palace,20.0,2.6,0.0,8.0,2.0,0.4,17-25 (Younger),More Physical
+196,196,190,Nathan Fraser,IRL,FW,Wolves,19.0,2.0,0.0,3.0,2.0,0.3,17-25 (Younger),More Physical
+197,197,191,Cody Gakpo,NED,"FW,MF",Liverpool,24.0,13.4,6.0,45.0,17.0,6.3,17-25 (Younger),More Physical
+198,198,192,Conor Gallagher,ENG,MF,Chelsea,24.0,26.9,3.0,40.0,14.0,3.0,17-25 (Younger),More Physical
+199,199,193,Idrissa Gana Gueye,SEN,MF,Everton,34.0,15.4,1.0,20.0,3.0,1.1,26-39 (Older),Less Physical
+200,200,194,Alejandro Garnacho,ARG,FW,Manchester Utd,19.0,22.1,7.0,73.0,19.0,6.4,17-25 (Younger),More Physical
+201,201,195,James Garner,ENG,MF,Everton,23.0,28.0,1.0,33.0,10.0,2.3,17-25 (Younger),More Physical
+202,202,196,Saman Ghoddos,IRN,DF,Brentford,30.0,7.9,1.0,9.0,2.0,0.3,26-39 (Older),Less Physical
+203,203,197,Morgan Gibbs-White,ENG,"MF,FW",Nott'ham Forest,24.0,29.1,4.0,57.0,11.0,5.8,17-25 (Younger),More Physical
+204,204,198,Bryan Gil,ESP,"FW,MF",Tottenham,23.0,2.2,0.0,3.0,1.0,0.7,17-25 (Younger),More Physical
+205,205,199,Alfie Gilchrist,ENG,DF,Chelsea,20.0,0.4,0.0,2.0,0.0,0.1,17-25 (Younger),More Physical
+206,206,200,Billy Gilmour,SCO,MF,Brighton,22.0,19.8,0.0,23.0,5.0,0.9,17-25 (Younger),More Physical
+208,208,201,Ben Godfrey,ENG,DF,Everton,26.0,9.4,0.0,10.0,3.0,1.4,26-39 (Older),More Physical
+209,209,202,André Gomes,POR,"MF,FW",Everton,30.0,3.8,1.0,7.0,4.0,0.3,26-39 (Older),Less Physical
+210,210,203,João Gomes,BRA,MF,Wolves,23.0,23.1,2.0,20.0,6.0,1.3,17-25 (Younger),More Physical
+211,211,204,Toti Gomes,POR,DF,Wolves,25.0,23.8,0.0,7.0,2.0,1.0,17-25 (Younger),More Physical
+212,212,205,Joe Gomez,ENG,DF,Liverpool,26.0,18.2,0.0,17.0,1.0,0.7,26-39 (Older),More Physical
+213,213,206,Sergio Gómez,ESP,FW,Manchester City,23.0,0.3,0.0,1.0,0.0,0.2,17-25 (Younger),More Physical
+214,214,207,Anthony Gordon,ENG,FW,Newcastle Utd,23.0,26.3,9.0,68.0,25.0,8.4,17-25 (Younger),More Physical
+215,215,208,Kaide Gordon,ENG,FW,Liverpool,19.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+216,216,209,Daniel Gore,ENG,MF,Manchester Utd,19.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+217,217,210,Ryan Gravenberch,NED,MF,Liverpool,21.0,10.1,0.0,17.0,7.0,1.6,17-25 (Younger),More Physical
+218,218,211,Ivo Grbić,CRO,GK,Sheffield Utd,28.0,6.6,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+219,219,212,Jack Grealish,ENG,FW,Manchester City,28.0,10.2,3.0,22.0,5.0,2.1,26-39 (Older),Less Physical
+220,220,213,Pascal Groß,GER,"MF,DF",Brighton,32.0,27.6,4.0,45.0,15.0,5.4,26-39 (Older),Less Physical
+221,221,214,Marc Guéhi,ENG,DF,Crystal Palace,23.0,21.2,0.0,5.0,0.0,0.6,17-25 (Younger),More Physical
+222,222,215,Bruno Guimarães,BRA,MF,Newcastle Utd,26.0,29.3,4.0,36.0,11.0,3.2,26-39 (Older),More Physical
+223,223,216,Malo Gusto,FRA,DF,Chelsea,20.0,17.0,0.0,11.0,2.0,0.7,17-25 (Younger),More Physical
+224,224,217,Joško Gvardiol,CRO,DF,Manchester City,22.0,18.9,0.0,21.0,7.0,1.4,17-25 (Younger),More Physical
+225,225,218,Erling Haaland,NOR,FW,Manchester City,23.0,23.4,19.0,93.0,41.0,21.8,17-25 (Younger),More Physical
+226,226,219,Antwoine Hackford,ENG,FW,Sheffield Utd,20.0,0.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+227,227,220,Lewis Hall,ENG,DF,Newcastle Utd,19.0,3.5,0.0,1.0,1.0,0.0,17-25 (Younger),More Physical
+228,228,221,Gustavo Hamer,NED,MF,Sheffield Utd,26.0,25.6,3.0,38.0,9.0,2.4,26-39 (Older),More Physical
+229,229,222,Luke Harris,WAL,MF,Fulham,19.0,0.8,0.0,1.0,1.0,0.3,17-25 (Younger),More Physical
+230,230,223,Jack Harrison,ENG,"MF,FW",Everton,27.0,20.1,3.0,26.0,8.0,3.2,26-39 (Older),Less Physical
+231,231,224,Daiki Hashioka,JPN,DF,Luton Town,24.0,3.7,0.0,2.0,0.0,0.1,17-25 (Younger),More Physical
+232,232,225,Kai Havertz,GER,"MF,FW",Arsenal,24.0,22.5,9.0,44.0,15.0,8.9,17-25 (Younger),More Physical
+234,234,226,Jan Paul van Hecke,NED,DF,Brighton,23.0,24.3,0.0,15.0,6.0,1.2,17-25 (Younger),More Physical
+235,235,227,Hwang Hee-chan,KOR,"FW,MF",Wolves,28.0,18.0,10.0,35.0,12.0,6.3,26-39 (Older),Less Physical
+236,236,228,Dean Henderson,ENG,GK,Crystal Palace,27.0,11.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+237,237,229,Rico Henry,ENG,DF,Brentford,26.0,4.5,0.0,2.0,0.0,0.1,26-39 (Older),More Physical
+238,238,230,Son Heung-min,KOR,FW,Tottenham,31.0,26.0,15.0,70.0,32.0,9.3,26-39 (Older),Less Physical
+239,239,231,Aaron Hickey,SCO,DF,Brentford,21.0,7.9,0.0,7.0,1.0,0.2,17-25 (Younger),More Physical
+240,240,232,James Hill,ENG,DF,Bournemouth,22.0,0.8,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+241,241,233,Jack Hinshelwood,ENG,DF,Brighton,18.0,9.7,3.0,14.0,8.0,1.9,17-25 (Younger),More Physical
+242,242,234,Mason Holgate,ENG,DF,Sheffield Utd,27.0,4.9,0.0,2.0,0.0,0.4,26-39 (Older),Less Physical
+243,243,235,Callum Hudson-Odoi,ENG,"FW,MF",Nott'ham Forest,23.0,14.8,5.0,23.0,13.0,1.8,17-25 (Younger),More Physical
+244,244,236,Will Hughes,ENG,MF,Crystal Palace,28.0,16.4,0.0,4.0,2.0,0.2,26-39 (Older),Less Physical
+245,245,237,Pierre Højbjerg,DEN,MF,Tottenham,28.0,11.9,0.0,15.0,5.0,0.5,26-39 (Older),Less Physical
+246,246,238,Rasmus Højlund,DEN,FW,Manchester Utd,21.0,19.0,7.0,31.0,16.0,6.7,17-25 (Younger),More Physical
+247,247,239,Igor,BRA,DF,Brighton,26.0,12.1,0.0,4.0,0.0,0.2,26-39 (Older),More Physical
+248,248,240,Danny Ings,ENG,FW,West Ham,31.0,2.9,1.0,9.0,3.0,1.1,26-39 (Older),Less Physical
+249,249,241,Tim Iroegbunam,ENG,MF,Aston Villa,20.0,1.4,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+250,250,242,Alexander Isak,SWE,FW,Newcastle Utd,24.0,18.6,15.0,50.0,26.0,14.4,17-25 (Younger),More Physical
+251,251,243,Alex Iwobi,NGA,MF,Everton,27.0,1.6,0.0,4.0,2.0,0.3,26-39 (Older),Less Physical
+252,252,244,Alex Iwobi,NGA,"FW,MF",Fulham,27.0,18.6,5.0,45.0,15.0,4.8,26-39 (Older),Less Physical
+253,253,245,Nicolas Jackson,SEN,FW,Chelsea,22.0,23.2,9.0,57.0,28.0,13.4,17-25 (Younger),More Physical
+254,254,246,Reece James,ENG,DF,Chelsea,24.0,4.3,0.0,7.0,1.0,0.3,17-25 (Younger),More Physical
+255,255,247,Vitaly Janelt,GER,"MF,DF",Brentford,25.0,28.7,0.0,18.0,5.0,1.5,17-25 (Younger),More Physical
+256,256,248,Mathias Jensen,DEN,MF,Brentford,28.0,20.6,3.0,12.0,6.0,0.6,26-39 (Older),Less Physical
+257,257,249,Gabriel Jesus,BRA,FW,Arsenal,27.0,14.2,4.0,49.0,18.0,6.0,26-39 (Older),Less Physical
+258,258,250,Raúl Jiménez,MEX,FW,Fulham,32.0,14.2,5.0,37.0,15.0,4.5,26-39 (Older),Less Physical
+260,260,251,João Pedro,BRA,"FW,MF",Brighton,22.0,16.8,8.0,50.0,18.0,8.7,17-25 (Younger),More Physical
+261,261,252,Joelinton,BRA,"MF,FW",Newcastle Utd,27.0,12.6,2.0,15.0,5.0,2.3,26-39 (Older),Less Physical
+262,262,253,Ryan John Giles,ENG,"DF,MF",Luton Town,24.0,5.6,0.0,2.0,2.0,0.1,17-25 (Younger),More Physical
+263,263,254,Ben Johnson,ENG,"DF,FW",West Ham,24.0,5.3,0.0,6.0,2.0,0.2,17-25 (Younger),More Physical
+264,264,255,Brennan Johnson,WAL,FW,Tottenham,22.0,16.6,5.0,39.0,17.0,7.8,17-25 (Younger),More Physical
+265,265,256,Brennan Johnson,WAL,"FW,MF",Nott'ham Forest,22.0,2.6,0.0,3.0,0.0,0.3,17-25 (Younger),More Physical
+266,266,257,Sam Johnstone,ENG,GK,Crystal Palace,31.0,20.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+267,267,258,Curtis Jones,ENG,MF,Liverpool,23.0,11.1,1.0,15.0,4.0,1.8,17-25 (Younger),More Physical
+268,268,259,Jorginho,ITA,MF,Arsenal,32.0,9.9,0.0,4.0,0.0,0.1,26-39 (Older),Less Physical
+269,269,260,Diogo Jota,POR,FW,Liverpool,27.0,11.6,9.0,36.0,17.0,4.4,26-39 (Older),Less Physical
+270,270,261,Mads Juel Andersen,DEN,DF,Luton Town,26.0,4.4,1.0,3.0,1.0,0.3,26-39 (Older),More Physical
+271,271,262,Hamed Junior Traorè,CIV,MF,Bournemouth,24.0,0.5,0.0,3.0,2.0,0.2,17-25 (Younger),More Physical
+272,272,263,Mathias Jørgensen,DEN,DF,Brentford,33.0,10.1,1.0,8.0,2.0,0.7,26-39 (Older),Less Physical
+273,273,264,Issa Kaboré,BFA,DF,Luton Town,22.0,18.8,0.0,6.0,1.0,0.2,17-25 (Younger),More Physical
+274,274,265,Sasa Kalajdzic,AUT,FW,Wolves,26.0,1.8,2.0,4.0,2.0,1.1,26-39 (Older),More Physical
+275,275,266,Boubacar Kamara,FRA,MF,Aston Villa,24.0,18.4,0.0,5.0,1.0,0.1,17-25 (Younger),More Physical
+276,276,267,Willy Kambwala,FRA,DF,Manchester Utd,19.0,2.5,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+277,277,268,Thomas Kaminski,BEL,GK,Luton Town,31.0,32.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+278,278,269,Loris Karius,GER,GK,Newcastle Utd,30.0,1.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+279,279,270,Michael Keane,ENG,DF,Everton,31.0,4.5,1.0,6.0,4.0,0.7,26-39 (Older),Less Physical
+280,280,271,Thilo Kehrer,GER,"DF,MF",West Ham,27.0,0.2,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+281,281,272,Caoimhín Kelleher,IRL,GK,Liverpool,25.0,10.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+282,282,273,Lloyd Kelly,ENG,DF,Bournemouth,25.0,13.6,0.0,3.0,1.0,0.3,17-25 (Younger),More Physical
+283,283,274,Omari Kellyman,ENG,FW,Aston Villa,18.0,0.2,0.0,1.0,0.0,0.1,17-25 (Younger),More Physical
+284,284,275,Milos Kerkez,HUN,DF,Bournemouth,20.0,18.0,0.0,9.0,3.0,0.4,17-25 (Younger),More Physical
+286,286,276,Kaine Kesler-Hayden,ENG,DF,Aston Villa,21.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+287,287,277,Max Kilman,ENG,DF,Wolves,26.0,31.0,2.0,12.0,5.0,1.8,26-39 (Older),More Physical
+288,288,278,Jakub Kiwior,POL,DF,Arsenal,24.0,9.5,1.0,6.0,2.0,0.8,17-25 (Younger),More Physical
+289,289,279,Justin Kluivert,NED,"MF,FW",Bournemouth,24.0,15.5,5.0,37.0,13.0,4.3,17-25 (Younger),More Physical
+290,290,280,Luca Koleosho,ITA,"MF,FW",Burnley,19.0,10.8,1.0,23.0,5.0,2.0,17-25 (Younger),More Physical
+291,291,281,Ibrahima Konaté,FRA,DF,Liverpool,24.0,15.8,0.0,9.0,2.0,0.5,17-25 (Younger),More Physical
+292,292,282,Ezri Konsa,ENG,DF,Aston Villa,26.0,28.1,1.0,17.0,5.0,2.4,26-39 (Older),More Physical
+293,293,283,Cheikhou Kouyaté,SEN,MF,Nott'ham Forest,34.0,2.3,0.0,5.0,1.0,0.3,26-39 (Older),Less Physical
+294,294,284,Mateo Kovačić,CRO,MF,Manchester City,29.0,11.8,0.0,14.0,3.0,0.8,26-39 (Older),Less Physical
+295,295,285,Emil Krafth,SWE,DF,Newcastle Utd,29.0,3.6,0.0,2.0,0.0,0.2,26-39 (Older),Less Physical
+296,296,286,Dejan Kulusevski,SWE,"FW,MF",Tottenham,23.0,25.4,6.0,44.0,17.0,3.5,17-25 (Younger),More Physical
+297,297,287,Adam Lallana,ENG,MF,Brighton,35.0,8.2,0.0,8.0,2.0,0.5,26-39 (Older),Less Physical
+298,298,288,Tariq Lamptey,GHA,"DF,FW",Brighton,23.0,8.5,0.0,6.0,0.0,0.4,17-25 (Younger),More Physical
+299,299,289,Aymeric Laporte,ESP,DF,Manchester City,29.0,0.1,0.0,1.0,1.0,0.0,26-39 (Older),Less Physical
+300,300,290,Yasser Larouci,ALG,DF,Sheffield Utd,23.0,4.7,0.0,5.0,1.0,0.2,17-25 (Younger),More Physical
+301,301,291,Jamaal Lascelles,ENG,DF,Newcastle Utd,30.0,12.0,1.0,6.0,1.0,0.7,26-39 (Older),Less Physical
+302,302,292,Roméo Lavia,BEL,MF,Chelsea,20.0,0.4,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+303,303,293,Mario Lemina,GAB,MF,Wolves,30.0,27.0,4.0,41.0,15.0,4.4,26-39 (Older),Less Physical
+304,304,294,Clément Lenglet,FRA,DF,Aston Villa,28.0,11.8,0.0,8.0,2.0,0.9,26-39 (Older),Less Physical
+305,305,295,Bernd Leno,GER,GK,Fulham,32.0,32.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+306,306,296,Jefferson Lerma,COL,MF,Crystal Palace,29.0,25.5,1.0,34.0,9.0,2.7,26-39 (Older),Less Physical
+307,307,297,Rico Lewis,ENG,"DF,MF",Manchester City,19.0,7.8,2.0,5.0,4.0,0.6,17-25 (Younger),More Physical
+308,308,298,Keane Lewis-Potter,ENG,"DF,FW",Brentford,23.0,13.4,2.0,33.0,14.0,4.3,17-25 (Younger),More Physical
+309,309,299,Victor Lindelöf,SWE,DF,Manchester Utd,29.0,14.8,1.0,6.0,4.0,0.8,26-39 (Older),Less Physical
+310,310,300,Valentino Livramento,ENG,DF,Newcastle Utd,21.0,11.5,1.0,3.0,1.0,0.3,17-25 (Younger),More Physical
+312,312,301,Giovani Lo Celso,ARG,MF,Tottenham,27.0,5.1,2.0,10.0,5.0,0.5,26-39 (Older),Less Physical
+313,313,302,Tom Lockyer,WAL,DF,Luton Town,29.0,13.0,1.0,7.0,1.0,1.1,26-39 (Older),Less Physical
+314,314,303,Sean Longstaff,ENG,MF,Newcastle Utd,26.0,24.1,4.0,31.0,11.0,4.4,26-39 (Older),More Physical
+315,315,304,Max Lowe,ENG,"DF,MF",Sheffield Utd,26.0,4.4,0.0,2.0,0.0,0.6,26-39 (Older),More Physical
+316,316,305,Douglas Luiz,BRA,MF,Aston Villa,25.0,29.6,9.0,43.0,13.0,6.8,17-25 (Younger),More Physical
+317,317,306,Saša Lukić,SRB,MF,Fulham,27.0,9.4,1.0,10.0,3.0,1.4,26-39 (Older),Less Physical
+318,318,307,Ian Maatsen,NED,"FW,MF",Chelsea,22.0,2.3,0.0,5.0,0.0,0.8,17-25 (Younger),More Physical
+319,319,308,Alexis Mac Allister,ARG,MF,Liverpool,25.0,23.1,4.0,32.0,6.0,2.6,17-25 (Younger),More Physical
+320,320,309,James Maddison,ENG,MF,Tottenham,27.0,18.6,4.0,45.0,19.0,4.6,26-39 (Older),Less Physical
+321,321,310,Noni Madueke,ENG,FW,Chelsea,22.0,5.1,3.0,16.0,6.0,1.4,17-25 (Younger),More Physical
+322,322,311,Harry Maguire,ENG,DF,Manchester Utd,31.0,15.4,1.0,18.0,2.0,1.9,26-39 (Older),Less Physical
+323,323,312,Kobbie Mainoo,ENG,MF,Manchester Utd,18.0,15.1,2.0,7.0,4.0,0.3,17-25 (Younger),More Physical
+324,324,313,Orel Mangala,BEL,MF,Nott'ham Forest,26.0,17.4,1.0,10.0,1.0,0.8,26-39 (Older),More Physical
+325,325,314,Benson Manuel,BEL,"MF,FW",Burnley,27.0,1.1,0.0,4.0,2.0,0.1,26-39 (Older),Less Physical
+326,326,315,Solly March,ENG,"FW,DF",Brighton,29.0,6.2,3.0,14.0,6.0,2.0,26-39 (Older),Less Physical
+327,327,316,Anthony Martial,FRA,FW,Manchester Utd,28.0,5.0,1.0,6.0,4.0,1.2,26-39 (Older),Less Physical
+328,328,317,Gabriel Martinelli,BRA,FW,Arsenal,22.0,20.1,6.0,50.0,15.0,5.7,17-25 (Younger),More Physical
+329,329,318,Emiliano Martínez,ARG,GK,Aston Villa,31.0,30.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+330,330,319,Lisandro Martínez,ARG,DF,Manchester Utd,26.0,6.4,0.0,0.0,0.0,0.0,26-39 (Older),More Physical
+331,331,320,Han-Noah Massengo,FRA,"MF,DF",Burnley,22.0,0.2,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+332,332,321,Pape Matar Sarr,SEN,MF,Tottenham,21.0,18.0,3.0,32.0,12.0,2.9,17-25 (Younger),More Physical
+333,333,322,Jean-Philippe Mateta,FRA,FW,Crystal Palace,26.0,19.5,7.0,28.0,13.0,5.8,26-39 (Older),More Physical
+334,334,323,Joël Matip,CMR,DF,Liverpool,32.0,8.7,0.0,5.0,0.0,0.5,26-39 (Older),Less Physical
+335,335,324,Alex Matos,ENG,MF,Chelsea,19.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+336,336,325,Remi Matthews,ENG,GK,Crystal Palace,30.0,0.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+338,338,326,Neal Maupay,FRA,FW,Brentford,27.0,13.5,6.0,34.0,14.0,5.3,26-39 (Older),Less Physical
+339,339,327,Neal Maupay,FRA,FW,Everton,27.0,1.2,0.0,5.0,4.0,1.4,26-39 (Older),Less Physical
+340,340,328,Konstantinos Mavropanos,GRE,DF,West Ham,26.0,15.0,1.0,10.0,1.0,1.1,26-39 (Older),More Physical
+341,341,329,Bryan Mbeumo,CMR,FW,Brentford,24.0,15.8,8.0,42.0,14.0,9.0,17-25 (Younger),More Physical
+342,342,330,James Mcatee,ENG,"MF,FW",Sheffield Utd,21.0,18.3,3.0,22.0,7.0,2.9,17-25 (Younger),More Physical
+343,343,331,James Mcatee,ENG,MF,Manchester City,21.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+344,344,332,Oliver McBurnie,SCO,FW,Sheffield Utd,27.0,12.4,6.0,26.0,13.0,5.8,26-39 (Older),Less Physical
+345,345,333,James McConnell,ENG,MF,Liverpool,19.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+346,346,334,John McGinn,SCO,"MF,FW",Aston Villa,29.0,27.4,6.0,35.0,14.0,4.3,26-39 (Older),Less Physical
+347,347,335,Scott McKenna,SCO,DF,Nott'ham Forest,27.0,4.6,0.0,2.0,0.0,0.2,26-39 (Older),Less Physical
+348,348,336,Dwight McNeil,ENG,"MF,FW",Everton,24.0,25.4,2.0,47.0,11.0,3.0,17-25 (Younger),More Physical
+349,349,337,Scott McTominay,SCO,"MF,FW",Manchester Utd,27.0,17.5,7.0,36.0,17.0,5.1,26-39 (Older),Less Physical
+350,350,338,Ben Mee,ENG,DF,Brentford,34.0,14.1,2.0,10.0,2.0,1.5,26-39 (Older),Less Physical
+351,351,339,Hannibal Mejbri,TUN,"MF,FW",Manchester Utd,21.0,1.5,1.0,1.0,1.0,0.0,17-25 (Younger),More Physical
+352,352,340,Teden Mengi,ENG,DF,Luton Town,21.0,23.3,1.0,8.0,3.0,0.4,17-25 (Younger),More Physical
+353,353,341,Chris Mepham,WAL,DF,Bournemouth,26.0,6.9,0.0,1.0,1.0,0.1,26-39 (Older),More Physical
+354,354,342,Lewis Miley,ENG,MF,Newcastle Utd,17.0,13.4,1.0,13.0,3.0,1.2,17-25 (Younger),More Physical
+355,355,343,James Milner,ENG,"DF,MF",Brighton,38.0,8.6,0.0,5.0,1.0,0.3,26-39 (Older),Less Physical
+356,356,344,Tyrone Mings,ENG,DF,Aston Villa,31.0,0.3,0.0,1.0,0.0,0.0,26-39 (Older),Less Physical
+357,357,345,Tyrick Mitchell,ENG,"DF,MF",Crystal Palace,24.0,28.9,1.0,5.0,2.0,0.7,17-25 (Younger),More Physical
+358,358,346,Kaoru Mitoma,JPN,FW,Brighton,26.0,16.5,3.0,34.0,15.0,3.5,26-39 (Older),More Physical
+359,359,347,Aleksandar Mitrović,SRB,FW,Fulham,29.0,0.4,0.0,2.0,1.0,0.2,26-39 (Older),Less Physical
+360,360,348,Jakub Moder,POL,MF,Brighton,25.0,4.1,0.0,7.0,1.0,0.4,17-25 (Younger),More Physical
+361,361,349,Kudus Mohammed,GHA,"FW,MF",West Ham,23.0,21.7,7.0,52.0,13.0,3.9,17-25 (Younger),More Physical
+362,362,350,Gonzalo Montiel,ARG,DF,Nott'ham Forest,27.0,5.6,0.0,2.0,0.0,0.1,26-39 (Older),Less Physical
+364,364,351,Kieffer Moore,WAL,"FW,MF",Bournemouth,31.0,1.2,1.0,6.0,2.0,1.5,26-39 (Older),Less Physical
+365,365,352,Álex Moreno,ESP,DF,Aston Villa,30.0,11.3,2.0,8.0,4.0,1.1,26-39 (Older),Less Physical
+366,366,353,Carlton Morris,ENG,"FW,MF",Luton Town,28.0,25.8,9.0,56.0,21.0,9.4,26-39 (Older),Less Physical
+367,367,354,Mason Mount,ENG,"MF,FW",Manchester Utd,25.0,4.7,1.0,4.0,1.0,0.3,17-25 (Younger),More Physical
+368,368,355,Divin Mubama,ENG,FW,West Ham,19.0,0.9,0.0,1.0,0.0,0.1,17-25 (Younger),More Physical
+369,369,356,Mykhailo Mudryk,UKR,"FW,MF",Chelsea,23.0,12.0,4.0,24.0,7.0,3.3,17-25 (Younger),More Physical
+370,370,357,Rodrigo Muniz,BRA,FW,Fulham,22.0,13.3,8.0,58.0,18.0,6.5,17-25 (Younger),More Physical
+371,371,358,Daniel Muñoz,COL,"DF,MF",Crystal Palace,27.0,9.0,0.0,4.0,0.0,0.8,26-39 (Older),Less Physical
+372,372,359,Arijanet Muric,KVX,GK,Burnley,25.0,4.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+373,373,360,Murillo,BRA,DF,Nott'ham Forest,21.0,25.2,0.0,14.0,5.0,1.2,17-25 (Younger),More Physical
+374,374,361,Alex Murphy,IRL,"FW,DF",Newcastle Utd,19.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+375,375,362,Jacob Murphy,ENG,FW,Newcastle Utd,29.0,8.0,2.0,21.0,6.0,1.3,26-39 (Older),Less Physical
+376,376,363,Vitaliy Mykolenko,UKR,DF,Everton,24.0,24.9,2.0,24.0,5.0,1.5,17-25 (Younger),More Physical
+377,377,364,Marvelous Nakamba,ZIM,MF,Luton Town,30.0,12.6,0.0,5.0,0.0,0.2,26-39 (Older),Less Physical
+378,378,365,Michael Ndiweni,ENG,FW,Newcastle Utd,20.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+379,379,366,Reiss Nelson,ENG,FW,Arsenal,24.0,3.0,0.0,4.0,1.0,0.2,17-25 (Younger),More Physical
+380,380,367,Zack Nelson,ENG,MF,Luton Town,19.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+381,381,368,Neto,BRA,GK,Bournemouth,34.0,29.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+382,382,369,Pedro Neto,POR,"FW,MF",Wolves,24.0,16.7,2.0,35.0,11.0,3.4,17-25 (Younger),More Physical
+383,383,370,Moussa Niakhate,SEN,DF,Nott'ham Forest,28.0,12.9,1.0,5.0,1.0,1.1,26-39 (Older),Less Physical
+384,384,371,Eddie Nketiah,ENG,FW,Arsenal,24.0,12.0,5.0,38.0,12.0,4.5,17-25 (Younger),More Physical
+385,385,372,Christopher Nkunku,FRA,"FW,MF",Chelsea,26.0,3.5,2.0,11.0,5.0,1.7,26-39 (Older),More Physical
+386,386,373,Rhys Norrington-Davies,WAL,DF,Sheffield Utd,24.0,1.2,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+387,387,374,Oliver Norwood,NIR,MF,Sheffield Utd,32.0,15.7,1.0,14.0,5.0,1.1,26-39 (Older),Less Physical
+388,388,375,Matheus Nunes,POR,MF,Wolves,25.0,2.0,0.0,1.0,0.0,0.1,17-25 (Younger),More Physical
+390,390,376,Matheus Nunes,POR,"MF,FW",Manchester City,25.0,6.0,0.0,5.0,2.0,0.5,17-25 (Younger),More Physical
+391,391,377,Darwin Núñez,URU,FW,Liverpool,24.0,20.1,11.0,99.0,41.0,14.7,17-25 (Younger),More Physical
+392,392,378,Ethan Nwaneri,ENG,FW,Arsenal,17.0,0.2,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+393,393,379,Christian Nørgaard,DEN,MF,Brentford,30.0,24.2,2.0,33.0,7.0,3.4,26-39 (Older),Less Physical
+394,394,380,Dara O'Shea,IRL,DF,Burnley,25.0,27.1,2.0,15.0,4.0,0.6,17-25 (Younger),More Physical
+395,395,381,Michael Obafemi,IRL,"FW,MF",Burnley,23.0,0.2,0.0,2.0,0.0,0.1,17-25 (Younger),More Physical
+396,396,382,Wilson Odobert,FRA,"MF,FW",Burnley,19.0,17.4,3.0,37.0,12.0,2.2,17-25 (Younger),More Physical
+397,397,383,Chiedozie Ogbene,IRL,"MF,DF",Luton Town,26.0,21.1,4.0,32.0,13.0,4.1,26-39 (Older),More Physical
+398,398,384,Angelo Ogbonna,ITA,DF,West Ham,35.0,3.6,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+399,399,385,Michael Olakigbe,ENG,"DF,FW",Brentford,19.0,0.7,0.0,3.0,0.0,0.1,17-25 (Younger),More Physical
+400,400,386,Michael Olise,FRA,"FW,MF",Crystal Palace,22.0,8.6,6.0,30.0,9.0,3.2,17-25 (Younger),More Physical
+401,401,387,Robin Olsen,SWE,GK,Aston Villa,34.0,2.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+402,402,388,Andrew Omobamidele,IRL,DF,Nott'ham Forest,21.0,7.5,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+403,403,389,Amadou Onana,BEL,MF,Everton,22.0,20.0,2.0,25.0,6.0,1.8,17-25 (Younger),More Physical
+404,404,390,André Onana,CMR,GK,Manchester Utd,28.0,31.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+405,405,391,Ryan One,SCO,FW,Sheffield Utd,17.0,0.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+406,406,392,Tyler Onyango,ENG,MF,Everton,21.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+407,407,393,Fred Onyedinma,ENG,"DF,MF",Luton Town,27.0,1.3,0.0,3.0,2.0,0.1,26-39 (Older),Less Physical
+408,408,394,Frank Onyeka,NGA,MF,Brentford,26.0,12.8,0.0,21.0,8.0,1.9,26-39 (Older),More Physical
+409,409,395,Divock Origi,BEL,FW,Nott'ham Forest,28.0,6.4,0.0,14.0,2.0,1.4,26-39 (Older),Less Physical
+410,410,396,Stefan Ortega,GER,GK,Manchester City,31.0,5.3,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+411,411,397,Ben Osborn,ENG,"DF,MF",Sheffield Utd,29.0,10.1,0.0,3.0,0.0,0.2,26-39 (Older),Less Physical
+412,412,398,Gabriel Osho,NGA,DF,Luton Town,25.0,15.5,2.0,8.0,2.0,1.0,17-25 (Younger),More Physical
+413,413,399,William Osula,DEN,FW,Sheffield Utd,20.0,8.4,0.0,20.0,7.0,1.6,17-25 (Younger),More Physical
+414,414,400,Dango Ouattara,BFA,"FW,DF",Bournemouth,22.0,8.7,1.0,20.0,3.0,1.9,17-25 (Younger),More Physical
+416,416,401,David Ozoh,ENG,"MF,DF",Crystal Palace,18.0,1.7,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+417,417,402,João Palhinha,POR,MF,Fulham,28.0,24.5,4.0,38.0,11.0,2.9,26-39 (Older),Less Physical
+418,418,403,Cole Palmer,ENG,MF,Manchester City,21.0,0.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+419,419,404,Cole Palmer,ENG,"FW,MF",Chelsea,21.0,22.1,16.0,69.0,27.0,12.5,17-25 (Younger),More Physical
+420,420,405,Emerson Palmieri,ITA,DF,West Ham,29.0,29.2,1.0,15.0,3.0,1.1,26-39 (Older),Less Physical
+421,421,406,Lucas Paquetá,BRA,"FW,MF",West Ham,26.0,23.4,4.0,35.0,7.0,5.1,26-39 (Older),More Physical
+422,422,407,Ben Parkinson,ENG,FW,Newcastle Utd,19.0,0.3,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+423,423,408,Thomas Partey,GHA,"DF,MF",Arsenal,30.0,4.1,0.0,2.0,1.0,0.1,26-39 (Older),Less Physical
+424,424,409,Nathan Patterson,SCO,DF,Everton,22.0,10.7,0.0,4.0,0.0,0.3,17-25 (Younger),More Physical
+425,425,410,Myles Peart-Harris,ENG,"DF,MF",Brentford,21.0,0.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+426,426,411,Sydie Peck,ENG,MF,Sheffield Utd,19.0,0.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+427,427,412,Facundo Pellistri,URU,"FW,MF",Manchester Utd,22.0,1.9,0.0,4.0,2.0,0.7,17-25 (Younger),More Physical
+428,428,413,Andreas Pereira,BRA,MF,Fulham,28.0,24.7,1.0,43.0,13.0,2.7,26-39 (Older),Less Physical
+429,429,414,Ivan Perišić,CRO,FW,Tottenham,35.0,1.1,0.0,2.0,0.0,0.1,26-39 (Older),Less Physical
+430,430,415,Đorđe Petrović,SRB,GK,Chelsea,24.0,14.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+431,431,416,Kalvin Phillips,ENG,MF,West Ham,28.0,3.3,0.0,3.0,2.0,0.1,26-39 (Older),Less Physical
+432,432,417,Kalvin Phillips,ENG,MF,Manchester City,28.0,1.0,0.0,2.0,0.0,0.1,26-39 (Older),Less Physical
+433,433,418,Jaden Philogene Bidace,ENG,FW,Aston Villa,22.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+434,434,419,Jordan Pickford,ENG,GK,Everton,30.0,31.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+435,435,420,Ethan Pinnock,JAM,DF,Brentford,30.0,23.0,1.0,15.0,3.0,1.7,26-39 (Older),Less Physical
+436,436,421,Nick Pope,ENG,GK,Newcastle Utd,31.0,13.9,0.0,1.0,0.0,0.0,26-39 (Older),Less Physical
+437,437,422,Pedro Porro,ESP,DF,Tottenham,24.0,28.0,1.0,42.0,8.0,2.5,17-25 (Younger),More Physical
+438,438,423,Jarell Quansah,ENG,DF,Liverpool,21.0,7.9,0.0,3.0,1.0,0.1,17-25 (Younger),More Physical
+439,439,424,Ionuț Radu,ROU,GK,Bournemouth,26.0,2.0,0.0,0.0,0.0,0.0,26-39 (Older),More Physical
+440,440,425,Jesurun Rak Sakyi,ENG,"MF,FW",Crystal Palace,21.0,1.5,0.0,5.0,1.0,0.4,17-25 (Younger),More Physical
+442,442,426,Aaron Ramsdale,ENG,GK,Arsenal,25.0,6.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+443,443,427,Aaron Ramsey,ENG,"MF,FW",Burnley,21.0,5.9,0.0,6.0,2.0,0.3,17-25 (Younger),More Physical
+444,444,428,Jacob Ramsey,ENG,"FW,MF",Aston Villa,22.0,9.5,1.0,19.0,4.0,2.2,17-25 (Younger),More Physical
+445,445,429,Marcus Rashford,ENG,FW,Manchester Utd,26.0,24.0,7.0,58.0,19.0,7.1,26-39 (Older),More Physical
+446,446,430,David Raya,ESP,GK,Arsenal,28.0,25.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+447,447,431,Tim Ream,USA,DF,Fulham,36.0,15.7,1.0,1.0,1.0,1.0,26-39 (Older),Less Physical
+448,448,432,Nathan Redmond,ENG,"FW,MF",Burnley,30.0,1.6,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+449,449,433,Harrison Reed,ENG,MF,Fulham,29.0,13.0,0.0,7.0,1.0,0.2,26-39 (Older),Less Physical
+450,450,434,Sergio Reguilón,ESP,DF,Manchester Utd,27.0,4.6,0.0,4.0,0.0,0.2,26-39 (Older),Less Physical
+451,451,435,Sergio Reguilón,ESP,DF,Brentford,27.0,6.8,0.0,10.0,1.0,0.6,26-39 (Older),Less Physical
+452,452,436,Bobby Reid,JAM,FW,Fulham,31.0,13.3,6.0,27.0,8.0,4.0,26-39 (Older),Less Physical
+453,453,437,Gio Reyna,USA,"MF,FW",Nott'ham Forest,21.0,1.1,0.0,2.0,1.0,0.1,17-25 (Younger),More Physical
+454,454,438,Rodrigo Ribeiro,POR,FW,Nott'ham Forest,18.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+455,455,439,Declan Rice,ENG,MF,Arsenal,25.0,28.8,6.0,41.0,14.0,2.3,17-25 (Younger),More Physical
+456,456,440,Chris Richards,USA,"DF,MF",Crystal Palace,24.0,17.3,1.0,6.0,1.0,0.3,17-25 (Younger),More Physical
+457,457,441,Richarlison,BRA,FW,Tottenham,26.0,15.2,10.0,58.0,23.0,8.8,26-39 (Older),More Physical
+458,458,442,Jaïro Riedewald,NED,"MF,FW",Crystal Palace,27.0,2.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+459,459,443,Matt Ritchie,SCO,FW,Newcastle Utd,34.0,1.2,1.0,5.0,3.0,0.8,26-39 (Older),Less Physical
+460,460,444,Connor Roberts,WAL,DF,Burnley,28.0,9.1,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+461,461,445,Andrew Robertson,SCO,DF,Liverpool,30.0,13.2,1.0,7.0,2.0,0.9,26-39 (Older),Less Physical
+462,462,446,Antonee Robinson,USA,DF,Fulham,26.0,30.4,0.0,13.0,7.0,0.6,26-39 (Older),More Physical
+463,463,447,Jack Robinson,ENG,DF,Sheffield Utd,30.0,28.8,1.0,11.0,5.0,1.1,26-39 (Older),Less Physical
+464,464,448,Rodri,ESP,MF,Manchester City,27.0,26.7,7.0,57.0,20.0,3.8,26-39 (Older),Less Physical
+465,465,449,Jay Rodriguez,ENG,FW,Burnley,34.0,8.6,2.0,20.0,6.0,3.4,26-39 (Older),Less Physical
+466,466,450,Mads Roerslev,DEN,DF,Brentford,24.0,19.3,1.0,6.0,1.0,0.9,17-25 (Younger),More Physical
+468,468,451,Morgan Rogers,ENG,"MF,FW",Aston Villa,21.0,3.8,1.0,7.0,3.0,1.0,17-25 (Younger),More Physical
+469,469,452,Cristian Romero,ARG,DF,Tottenham,25.0,24.0,4.0,13.0,5.0,1.6,17-25 (Younger),More Physical
+470,470,453,Joe Rothwell,ENG,MF,Bournemouth,29.0,4.3,0.0,2.0,0.0,0.1,26-39 (Older),Less Physical
+471,471,454,Pelly Ruddock Mpanzu,COD,MF,Luton Town,30.0,11.7,0.0,10.0,1.0,0.6,26-39 (Older),Less Physical
+472,472,455,José Sá,POR,GK,Wolves,31.0,27.7,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+473,473,456,Bukayo Saka,ENG,FW,Arsenal,22.0,26.7,14.0,79.0,24.0,12.5,17-25 (Younger),More Physical
+474,474,457,Mohamed Salah,EGY,FW,Liverpool,31.0,22.8,17.0,84.0,36.0,17.9,26-39 (Older),Less Physical
+475,475,458,William Saliba,FRA,DF,Arsenal,23.0,31.0,2.0,8.0,2.0,1.5,17-25 (Younger),More Physical
+476,476,459,Albert Sambi Lokonga,BEL,MF,Luton Town,24.0,9.7,0.0,7.0,1.0,0.4,17-25 (Younger),More Physical
+477,477,460,Davinson Sánchez,COL,DF,Tottenham,27.0,0.9,0.0,1.0,0.0,0.1,26-39 (Older),Less Physical
+478,478,461,Robert Sánchez,ESP,GK,Chelsea,26.0,15.9,0.0,0.0,0.0,0.0,26-39 (Older),More Physical
+479,479,462,Jadon Sancho,ENG,"FW,MF",Manchester Utd,24.0,0.9,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+480,480,463,Ibrahim Sangaré,CIV,MF,Nott'ham Forest,26.0,11.1,0.0,8.0,0.0,0.6,26-39 (Older),More Physical
+481,481,464,Andrey Santos,BRA,MF,Nott'ham Forest,19.0,0.1,0.0,2.0,0.0,0.1,17-25 (Younger),More Physical
+482,482,465,Pablo Sarabia,ESP,"MF,FW",Wolves,31.0,16.9,4.0,41.0,14.0,5.2,26-39 (Older),Less Physical
+483,483,466,Dane Scarlett,ENG,FW,Tottenham,20.0,0.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+484,484,467,Kevin Schade,GER,"FW,MF",Brentford,22.0,2.9,1.0,5.0,2.0,0.7,17-25 (Younger),More Physical
+485,485,468,Fabian Schär,SUI,DF,Newcastle Utd,32.0,30.1,3.0,31.0,8.0,2.4,26-39 (Older),Less Physical
+486,486,469,Jeffrey Schlupp,GHA,"FW,MF",Crystal Palace,31.0,14.4,1.0,18.0,10.0,1.8,26-39 (Older),Less Physical
+487,487,470,Alex Scott,ENG,MF,Bournemouth,20.0,8.2,1.0,9.0,2.0,0.5,17-25 (Younger),More Physical
+488,488,471,Matz Sels,BEL,GK,Nott'ham Forest,32.0,10.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+489,489,472,Nélson Semedo,POR,"DF,MF",Wolves,30.0,29.0,0.0,14.0,3.0,0.9,26-39 (Older),Less Physical
+490,490,473,Antoine Semenyo,GHA,FW,Bournemouth,24.0,18.1,7.0,57.0,25.0,3.9,17-25 (Younger),More Physical
+491,491,474,Marcos Senesi,ARG,DF,Bournemouth,26.0,18.5,3.0,7.0,3.0,1.0,26-39 (Older),More Physical
+492,492,475,Luke Shaw,ENG,DF,Manchester Utd,28.0,10.7,0.0,2.0,0.0,0.0,26-39 (Older),Less Physical
+494,494,476,Bernardo Silva,POR,"MF,FW",Manchester City,29.0,22.9,6.0,29.0,13.0,3.4,26-39 (Older),Less Physical
+495,495,477,Fábio Silva,POR,FW,Wolves,21.0,2.9,0.0,7.0,3.0,1.0,17-25 (Younger),More Physical
+496,496,478,Thiago Silva,BRA,DF,Chelsea,39.0,23.0,3.0,10.0,4.0,0.5,26-39 (Older),Less Physical
+497,497,479,Luis Sinisterra,COL,"FW,MF",Bournemouth,24.0,7.3,2.0,26.0,8.0,2.5,17-25 (Younger),More Physical
+498,498,480,Oliver Skipp,ENG,"MF,FW",Tottenham,23.0,6.5,0.0,3.0,1.0,0.6,17-25 (Younger),More Physical
+499,499,481,Adam Smith,ENG,DF,Bournemouth,32.0,18.8,0.0,1.0,0.0,0.0,26-39 (Older),Less Physical
+500,500,482,Emile Smith Rowe,ENG,MF,Arsenal,23.0,3.5,0.0,12.0,5.0,1.7,17-25 (Younger),More Physical
+501,501,483,Cédric Soares,POR,DF,Arsenal,32.0,0.7,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+502,502,484,Dominic Solanke,ENG,FW,Bournemouth,26.0,30.6,16.0,88.0,30.0,17.0,26-39 (Older),More Physical
+503,503,485,Manor Solomon,ISR,FW,Tottenham,24.0,2.2,0.0,7.0,1.0,0.4,17-25 (Younger),More Physical
+504,504,486,Tomáš Souček,CZE,MF,West Ham,29.0,27.3,6.0,38.0,12.0,6.4,26-39 (Older),Less Physical
+505,505,487,Vinicius Souza,BRA,MF,Sheffield Utd,24.0,26.0,1.0,10.0,4.0,0.4,17-25 (Younger),More Physical
+506,506,488,Jason Steele,ENG,GK,Brighton,33.0,15.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+507,507,489,Raheem Sterling,ENG,"FW,MF",Chelsea,29.0,20.6,6.0,46.0,17.0,6.1,26-39 (Older),Less Physical
+508,508,490,John Stones,ENG,"DF,MF",Manchester City,29.0,11.6,1.0,4.0,2.0,1.0,26-39 (Older),Less Physical
+509,509,491,Thomas Strakosha,ALB,GK,Brentford,29.0,1.5,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+510,510,492,Dominik Szoboszlai,HUN,MF,Liverpool,23.0,21.8,3.0,54.0,13.0,3.3,17-25 (Younger),More Physical
+511,511,493,Matt Targett,ENG,DF,Newcastle Utd,28.0,0.9,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+512,512,494,James Tarkowski,ENG,DF,Everton,31.0,31.0,1.0,22.0,3.0,2.4,26-39 (Older),Less Physical
+513,513,495,Nuno Tavares,POR,DF,Nott'ham Forest,24.0,5.1,0.0,7.0,1.0,0.2,17-25 (Younger),More Physical
+514,514,496,Marcus Tavernier,ENG,FW,Bournemouth,25.0,22.6,3.0,51.0,15.0,3.8,17-25 (Younger),More Physical
+515,515,497,Charlie Taylor,ENG,DF,Burnley,30.0,22.6,1.0,10.0,1.0,0.2,26-39 (Older),Less Physical
+516,516,498,Kenny Tete,NED,DF,Fulham,28.0,8.6,1.0,4.0,1.0,0.9,26-39 (Older),Less Physical
+517,517,499,Luke Thomas,ENG,DF,Sheffield Utd,22.0,10.2,0.0,6.0,1.0,0.5,17-25 (Younger),More Physical
+518,518,500,Youri Tielemans,BEL,"MF,FW",Aston Villa,26.0,15.0,1.0,11.0,4.0,1.1,26-39 (Older),More Physical
+520,520,501,Jurriën Timber,NED,DF,Arsenal,22.0,0.5,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+521,521,502,Harry Toffolo,ENG,DF,Nott'ham Forest,28.0,14.9,1.0,8.0,5.0,1.6,26-39 (Older),Less Physical
+522,522,503,Takehiro Tomiyasu,JPN,DF,Arsenal,25.0,7.7,1.0,9.0,2.0,0.6,17-25 (Younger),More Physical
+523,523,504,James Tomkins,ENG,DF,Crystal Palace,35.0,0.1,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+524,524,505,Sandro Tonali,ITA,MF,Newcastle Utd,23.0,4.9,1.0,3.0,2.0,0.7,17-25 (Younger),More Physical
+525,525,506,Ivan Toney,ENG,FW,Brentford,28.0,12.1,4.0,39.0,15.0,4.7,26-39 (Older),Less Physical
+526,526,507,Pau Torres,ESP,DF,Aston Villa,27.0,22.4,2.0,11.0,5.0,1.0,26-39 (Older),Less Physical
+527,527,508,Andros Townsend,ENG,"MF,FW",Luton Town,32.0,12.3,1.0,19.0,7.0,1.2,26-39 (Older),Less Physical
+528,528,509,James Trafford,ENG,GK,Burnley,21.0,28.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+529,529,510,Adama Traoré,ESP,"FW,MF",Fulham,28.0,2.4,1.0,7.0,4.0,1.3,26-39 (Older),Less Physical
+530,530,511,Bertrand Traoré,BFA,"DF,FW",Aston Villa,28.0,0.1,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+531,531,512,Boubacar Traoré,MLI,"MF,FW",Wolves,22.0,4.8,0.0,6.0,1.0,0.1,17-25 (Younger),More Physical
+532,532,513,Mike Trésor,BEL,"FW,MF",Burnley,24.0,4.5,0.0,5.0,0.0,0.5,17-25 (Younger),More Physical
+533,533,514,Kieran Trippier,ENG,DF,Newcastle Utd,33.0,24.0,1.0,8.0,2.0,0.7,26-39 (Older),Less Physical
+534,534,515,Leandro Trossard,BEL,"FW,MF",Arsenal,29.0,12.8,8.0,45.0,17.0,5.7,26-39 (Older),Less Physical
+535,535,516,Auston Trusty,USA,DF,Sheffield Utd,25.0,21.6,0.0,7.0,1.0,0.3,17-25 (Younger),More Physical
+536,536,517,Kostas Tsimikas,GRE,DF,Liverpool,27.0,7.5,0.0,3.0,0.0,0.1,26-39 (Older),Less Physical
+537,537,518,Matt Turner,USA,GK,Nott'ham Forest,29.0,17.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+538,538,519,Destiny Udogie,ITA,DF,Tottenham,21.0,25.6,2.0,9.0,5.0,2.4,17-25 (Younger),More Physical
+539,539,520,Lesley Ugochukwu,FRA,MF,Chelsea,20.0,3.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+540,540,521,Enes Ünal,TUR,"FW,MF",Bournemouth,26.0,1.5,1.0,11.0,4.0,1.1,26-39 (Older),More Physical
+541,541,522,Virgil van Dijk,NED,DF,Liverpool,32.0,28.3,2.0,30.0,11.0,2.1,26-39 (Older),Less Physical
+542,542,523,Raphaël Varane,FRA,DF,Manchester Utd,30.0,15.0,1.0,8.0,2.0,1.3,26-39 (Older),Less Physical
+543,543,524,Alejo Véliz,ARG,FW,Tottenham,20.0,0.6,1.0,2.0,1.0,0.2,17-25 (Younger),More Physical
+544,544,525,Joël Veltman,NED,DF,Brighton,32.0,14.5,0.0,3.0,2.0,0.2,26-39 (Older),Less Physical
+546,546,526,Micky van de Ven,NED,DF,Tottenham,22.0,19.0,2.0,6.0,2.0,0.4,17-25 (Younger),More Physical
+547,547,527,Bart Verbruggen,NED,GK,Brighton,21.0,16.0,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+548,548,528,Guglielmo Vicario,ITA,GK,Tottenham,27.0,31.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+549,549,529,Fabio Vieira,POR,"MF,FW",Arsenal,23.0,3.2,1.0,5.0,1.0,1.2,17-25 (Younger),More Physical
+550,550,530,Carlos Vinícius,BRA,FW,Fulham,29.0,3.5,2.0,9.0,5.0,1.6,26-39 (Older),Less Physical
+551,551,531,Vitinho,BRA,"DF,MF",Burnley,24.0,21.2,0.0,17.0,2.0,1.2,17-25 (Younger),More Physical
+552,552,532,Odisseas Vlachodimos,GRE,GK,Nott'ham Forest,29.0,5.0,0.0,0.0,0.0,0.0,26-39 (Older),Less Physical
+553,553,533,Kyle Walker,ENG,DF,Manchester City,33.0,25.1,0.0,16.0,3.0,0.4,26-39 (Older),Less Physical
+554,554,534,Aaron Wan-Bissaka,ENG,DF,Manchester Utd,26.0,12.8,0.0,2.0,1.0,0.1,26-39 (Older),More Physical
+555,555,535,Joel Ward,ENG,DF,Crystal Palace,34.0,21.8,0.0,10.0,0.0,0.9,26-39 (Older),Less Physical
+556,556,536,James Ward-Prowse,ENG,MF,West Ham,29.0,28.9,6.0,36.0,13.0,5.7,26-39 (Older),Less Physical
+557,557,537,Deivid Washington,BRA,DF,Chelsea,18.0,0.1,0.0,1.0,0.0,0.5,17-25 (Younger),More Physical
+558,558,538,Ollie Watkins,ENG,FW,Aston Villa,28.0,30.0,18.0,91.0,42.0,15.0,26-39 (Older),Less Physical
+559,559,539,Adam Webster,ENG,DF,Brighton,29.0,8.5,0.0,5.0,0.0,0.3,26-39 (Older),Less Physical
+560,560,540,Danny Welbeck,ENG,"FW,MF",Brighton,33.0,13.4,4.0,34.0,13.0,4.0,26-39 (Older),Less Physical
+561,561,541,Timo Werner,GER,FW,Tottenham,28.0,7.7,2.0,25.0,6.0,3.2,26-39 (Older),Less Physical
+562,562,542,Adam Wharton,ENG,MF,Crystal Palace,19.0,7.9,0.0,3.0,0.0,0.1,17-25 (Younger),More Physical
+563,563,543,Ben White,ENG,DF,Arsenal,26.0,26.7,2.0,8.0,4.0,0.7,26-39 (Older),More Physical
+564,564,544,Joe White,ENG,MF,Newcastle Utd,21.0,0.1,0.0,0.0,0.0,0.0,17-25 (Younger),More Physical
+565,565,545,Neco Williams,WAL,DF,Nott'ham Forest,22.0,15.8,0.0,9.0,1.0,0.4,17-25 (Younger),More Physical
+566,566,546,Willian,BRA,FW,Fulham,35.0,20.4,4.0,41.0,15.0,4.9,26-39 (Older),Less Physical
+567,567,547,Joe Willock,ENG,MF,Newcastle Utd,24.0,4.7,1.0,7.0,3.0,0.8,17-25 (Younger),More Physical
+568,568,548,Callum Wilson,ENG,FW,Newcastle Utd,32.0,9.6,7.0,29.0,15.0,7.2,26-39 (Older),Less Physical
+569,569,549,Harry Wilson,WAL,FW,Fulham,27.0,16.3,3.0,35.0,11.0,3.1,26-39 (Older),Less Physical
+570,570,550,Yoane Wissa,COD,FW,Brentford,27.0,23.6,8.0,59.0,19.0,9.4,26-39 (Older),Less Physical
+572,572,551,Chris Wood,NZL,FW,Nott'ham Forest,32.0,14.3,12.0,31.0,19.0,7.8,26-39 (Older),Less Physical
+573,573,552,Cauley Woodrow,ENG,"FW,MF",Luton Town,29.0,3.7,1.0,10.0,3.0,1.1,26-39 (Older),Less Physical
+574,574,553,Joe Worrall,ENG,DF,Nott'ham Forest,27.0,4.9,0.0,2.0,0.0,0.1,26-39 (Older),Less Physical
+575,575,554,Yehor Yarmoliuk,UKR,MF,Brentford,20.0,6.8,0.0,9.0,4.0,0.9,17-25 (Younger),More Physical
+576,576,555,Ryan Yates,ENG,MF,Nott'ham Forest,26.0,18.7,0.0,21.0,5.0,2.0,26-39 (Older),More Physical
+577,577,556,Ashley Young,ENG,"DF,MF",Everton,38.0,19.1,0.0,12.0,2.0,0.6,26-39 (Older),Less Physical
+578,578,557,Illia Zabarnyi,UKR,DF,Bournemouth,21.0,31.0,1.0,8.0,2.0,1.1,17-25 (Younger),More Physical
+579,579,558,Nicolò Zaniolo,ITA,"MF,FW",Aston Villa,24.0,8.3,2.0,25.0,9.0,2.3,17-25 (Younger),More Physical
+580,580,559,Anass Zaroury,MAR,"FW,MF",Burnley,23.0,1.7,0.0,3.0,1.0,0.2,17-25 (Younger),More Physical
+581,581,560,Oleksandr Zinchenko,UKR,DF,Arsenal,27.0,17.6,1.0,16.0,3.0,0.5,26-39 (Older),Less Physical
+582,582,561,Kurt Zouma,FRA,DF,West Ham,29.0,26.2,3.0,15.0,7.0,1.8,26-39 (Older),Less Physical
+583,583,562,Martin Ødegaard,NOR,MF,Arsenal,25.0,27.5,7.0,58.0,18.0,5.9,17-25 (Younger),More Physical
